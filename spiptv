@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Axl 2018
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=c281d7231fd7f60916bf08c6c5e9f76cf1ff1020&st.mq=3&st.mvid=1248858671831&st.ip=41.140.96.190&st.dla=on&st.exp=1583789771177&st.hls=on&_prevCmd=movieLayer&tkn=7325
+
 #EXTINF:-1,Blacklist S01 E06
 https://c.tal2a.tv/ccyswjs6zznvv4gfqb4nelgukl3uvhwm7zlqpnreuoleyutcgrfzcemen34q/v.mp4
 #EXTINF:-1,King Kong
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=97e01781c2e236f73403fbcaa105c0bccb7f067a&st.mq=3&st.mvid=84664453830&st.ip=41.249.34.18&st.dla=on&st.exp=1582890709432&st.hls=off&_prevCmd=movieLayer&tkn=8423
+https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=c281d7231fd7f60916bf08c6c5e9f76cf1ff1020&st.mq=3&st.mvid=1248858671831&st.ip=41.140.96.190&st.dla=on&st.exp=1583789771177&st.hls=on&_prevCmd=movieLayer&tkn=7325
 #EXTINF:-1,Osman 12 back
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=dae2af26f6473140f7e99677d7d71e5be69ab5c5&st.mq=2&st.mvid=1417890302473&st.ip=41.249.86.135&st.dla=on&st.exp=1583002506461&st.hls=off&_prevCmd=movieLayer&tkn=3177
 #EXTINF:-1,Osman 12
