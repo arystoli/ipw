@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1,Osman 14
+https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=18bfda765db70b30671c3da15636a81b7ca76904&st.mq=2&st.mvid=1432883104265&st.ip=105.157.13.252&st.dla=on&st.exp=1584202748635&st.hls=off&_prevCmd=movieLayer&tkn=5350
 #EXTINF:-1,Blacklist S01 E06
 https://c.tal2a.tv/ccyswjs6zznvv4gfqb4nelgukl3uvhwm7zlqpnreuoleyutcgrfzcemen34q/v.mp4
 #EXTINF:-1,King Kong
