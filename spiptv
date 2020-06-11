@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,ossm22
+#EXTINF:-1,ossm25
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=867b865c1819dc7ddd69128414a031db20921fee&st.mq=3&st.mvid=2680584800875&st.ip=41.249.81.45&st.dla=on&st.exp=1592057614842&st.hls=on&_prevCmd=movieLayer&tkn=8457
 #EXTINF:-1,12 Rounds 2009
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=b7ab7a7960afb668b1f4b668de54729939969da3&st.mq=3&st.mvid=1455268760304&st.ip=41.140.30.22&st.dla=on&st.exp=1588294893223&st.hls=off&_prevCmd=movieLayer&tkn=1032
